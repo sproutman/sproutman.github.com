@@ -8,7 +8,7 @@ title: ! Welcome !
 
 
 
-## 日志列表
+## posts lists:
 
 <ul class="posts">
   {% for post in site.posts %}
