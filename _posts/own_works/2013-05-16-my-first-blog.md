@@ -1,6 +1,6 @@
 ---
-layout: post
-category : first
+layout: default
+category : unkown
 tagline: "Supporting tagline"
 tags : [intro, beginner, jekyll, tutorial]
 ---
@@ -11,7 +11,7 @@ tags : [intro, beginner, jekyll, tutorial]
 
 So , Welcome !!! 
 
-## Tips:
+ Tips:
 
 keep on write something from today.
 
