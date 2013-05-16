@@ -1,3 +1,12 @@
+---
+layout: post
+category : first
+tagline: "Supporting tagline"
+tags : [intro, beginner, jekyll, tutorial]
+---
+{% include JB/setup %}
+
+
 # My first GitHub Blog
 
 So , Welcome !!! 
